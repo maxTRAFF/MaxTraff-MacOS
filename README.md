@@ -1,1 +1,1 @@
-# MaxTraff-MacOS-ARM
+# MaxTraff-MacOS-ARM-AND-AMD64
